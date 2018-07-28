@@ -49,7 +49,7 @@ running a Pyinstaller command on a Linux Distribution and vice versa.
 
 - The first thing to do after running the application is to create a database first.The user can then proceed to add,read,delete,update entries as per their wish.
 - If PyInstaller is used then the application can be executed by just double clicking on the executed file.In case, if you are
-using the python script ,run the python file in the terminal using the command ***python3 DATABASEapp_GUI.py***.
+using the python script ,run the python file in the terminal using the command ***python3 DATABASEappGUI.py***.
 
 ## AUTHOR
 - ***Jiten Sinha***-initial work-[LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
