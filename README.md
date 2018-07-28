@@ -51,8 +51,8 @@ running a Pyinstaller command on a Linux Distribution and vice versa.
 - If PyInstaller is used then the application can be executed by just double clicking on the executed file.In case, if you are
 using the python script ,run the python file in the terminal using the command ***python3 DATABASEappGUI.py***.
 
-## AUTHOR
+## Author
 - ***Jiten Sinha***-initial work-[LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
 
-## LICESNSE
+## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jitensinha98/SQLite-Database-Application/blob/master/LICENSE) file for details.
