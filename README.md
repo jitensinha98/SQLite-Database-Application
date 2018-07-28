@@ -27,5 +27,5 @@ sudo apt-get install sqlitebrowser
 - SQL
 ## Creating a standalone application for windows
 *PyInstaller* can be used to convert .py file into a executable file.
-To know more [click here]:https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263
+To know more [click here]:(https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263)
 
