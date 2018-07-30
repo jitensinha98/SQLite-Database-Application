@@ -1,6 +1,6 @@
 # SQLite-Database-Application
 
-SQLite Database Application is a Database management software developed uding SQLite Database system and tkinter to develop th GUI platform of the application.
+SQLite Database Application is a Database management software developed using SQLite Database system and tkinter to develop th GUI platform of the application.
 
 ## Description
 
@@ -26,7 +26,7 @@ sudo apt-get install sqlitebrowser
 
 ## Programming Languages used
 
-- python 
+- python 3
 - SQL
 
 ## Creating a standalone application for windows
